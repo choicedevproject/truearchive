@@ -9,7 +9,18 @@
       "developerName": "SurgecordTF",
       "version": "1.0",
       "versionDate": "2026-10-27",
-      "size": 1100000,
+      "size": 3120000,
+      "downloadURL": "https://pub-2adea498826a472eba43bcd9362bd1e7.r2.dev/apps/FinSec/FinSecure0.1.0.42a.ipa",
+      "iconURL": "https://github.com/choiceaiproject-del/truearchive/blob/main/Apps/FinSec/FS.PNG?raw=true",
+      "localizedDescription": "A powerful private completely offline finanical tool brought to by Directly from the developers of TrueArchive "
+    },
+    {
+      "name": "Workplace",
+      "bundleIdentifier": "com.surgecord.workplace",
+      "developerName": "SurgecordTF",
+      "version": "1.1",
+      "versionDate": "2026-10-27",
+      "size": 1710000,
       "downloadURL": "https://pub-2adea498826a472eba43bcd9362bd1e7.r2.dev/apps/FinSec/FinSecure0.1.0.42a.ipa",
       "iconURL": "https://github.com/choiceaiproject-del/truearchive/blob/main/Apps/FinSec/FS.PNG?raw=true",
       "localizedDescription": "A powerful private completely offline finanical tool brought to by Directly from the developers of TrueArchive "
